@@ -1,0 +1,1 @@
+{"name":"urimal-research","version":"1.0.0","private":true,"description":"초등학생 우리말 조사 전용 자료실","scripts":{"check":"node --check app.js && node --check data.js"}}
